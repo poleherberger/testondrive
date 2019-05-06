@@ -163,6 +163,3 @@ no option        Sync and exit
 ### File naming
 The files and directories in the synchronization directory must follow the [Windows naming conventions](https://msdn.microsoft.com/en-us/library/aa365247).
 The application will crash for example if you have two files with the same name but different case. This is expected behavior and won't be fixed.
-
-
-ezr
